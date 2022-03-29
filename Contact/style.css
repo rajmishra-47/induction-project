@@ -1,0 +1,26 @@
+.contact{
+    display:inline-block;
+    /* list-style: none; */
+    padding: 20px;
+ }  
+
+.lin{
+    background-image: url('../images/li.png');
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+.twit{
+    background-image: url('../images/download.png');
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+
+}
+
+.git{
+    background-image: url('../images/25231.png');
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+
